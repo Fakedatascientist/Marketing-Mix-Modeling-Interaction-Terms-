@@ -1,1 +1,1 @@
-All information regarding Marketing Mix Modeling and interpretation of results is contained in the thesis file Ali Shyntas and Ramazan Aitkaliyev
+All information regarding Marketing Mix Modeling and interpretation of results is contained in the thesis file Ali Shyntas and Ramazan Aitkaliyev. All data used in this project belong to the Politecnico di Milano and were provided in collaboration with Group M as part of a research project in the field of marketing. We thank them for the opportunity to use this dataset for educational and research purposes.
